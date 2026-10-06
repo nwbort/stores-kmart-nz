@@ -1,0 +1,1 @@
+# stores-kmart-nz
