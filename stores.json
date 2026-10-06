@@ -1,0 +1,1458 @@
+[
+  {
+    "locationId": "8201",
+    "publicName": "Henderson",
+    "phoneNumber": "+64 9 822 5600",
+    "address1": "Waitakere Mega Centre  5 Vitasovich Ave  Henderson  Auckland",
+    "address2": "",
+    "address3": "",
+    "city": "Auckland",
+    "state": "North Island",
+    "postcode": "612",
+    "latitude": "-36.8824697680163",
+    "longitude": "174.63549613952603",
+    "tradingHours": [
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "MONDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "TUESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "WEDNESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "THURSDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SATURDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SUNDAY"
+      }
+    ],
+    "typename": "Location",
+    "url": "https://www.kmart.co.nz/store-detail/henderson/"
+  },
+  {
+    "locationId": "8203",
+    "publicName": "Porirua",
+    "phoneNumber": "+64 4 238 7100",
+    "address1": "North City Plaza  Cnr Hagley St & Titahi Bay Road",
+    "address2": "",
+    "address3": "",
+    "city": "Porirua",
+    "state": "North Island",
+    "postcode": "5022",
+    "latitude": "-41.135389090770097",
+    "longitude": "174.83874320983901",
+    "tradingHours": [
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "MONDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "TUESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "WEDNESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "THURSDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SATURDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SUNDAY"
+      }
+    ],
+    "typename": "Location",
+    "url": "https://www.kmart.co.nz/store-detail/porirua/"
+  },
+  {
+    "locationId": "8204",
+    "publicName": "St Lukes",
+    "phoneNumber": "+64 9 849 9400",
+    "address1": "St Lukes Shopping Centre  72 St Lukes Road  St Lukes",
+    "address2": "",
+    "address3": "",
+    "city": "Auckland",
+    "state": "North Island",
+    "postcode": "1025",
+    "latitude": "-36.882847359952805",
+    "longitude": "174.733643531799",
+    "tradingHours": [
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "MONDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "TUESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "WEDNESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "THURSDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SATURDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SUNDAY"
+      }
+    ],
+    "typename": "Location",
+    "url": "https://www.kmart.co.nz/store-detail/st-lukes/"
+  },
+  {
+    "locationId": "8205",
+    "publicName": "Papatoetoe",
+    "phoneNumber": "+64 9 250 5200",
+    "address1": "Hunters Plaza  Cnr Great South Rd & Sutton Crescent  Papatoetoe",
+    "address2": "",
+    "address3": "",
+    "city": "Auckland",
+    "state": "North Island",
+    "postcode": "2025",
+    "latitude": "-36.971488236357942",
+    "longitude": "174.86018658095099",
+    "tradingHours": [
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "MONDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "TUESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "WEDNESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "THURSDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SATURDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SUNDAY"
+      }
+    ],
+    "typename": "Location",
+    "url": "https://www.kmart.co.nz/store-detail/papatoetoe/"
+  },
+  {
+    "locationId": "8206",
+    "publicName": "Hastings NZ",
+    "phoneNumber": "+64 6 833 9300",
+    "address1": "The Plaza  Cnr St Aubyn Street East & Karamu",
+    "address2": "",
+    "address3": "",
+    "city": "Hastings",
+    "state": "North Island",
+    "postcode": "4122",
+    "latitude": "-39.640429853433105",
+    "longitude": "176.846408843994",
+    "tradingHours": [
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "MONDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "TUESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "WEDNESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "THURSDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SATURDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SUNDAY"
+      }
+    ],
+    "typename": "Location",
+    "url": "https://www.kmart.co.nz/store-detail/hastings-nz/"
+  },
+  {
+    "locationId": "8207",
+    "publicName": "Palmerston North",
+    "phoneNumber": "+64 6 351 2100",
+    "address1": "The Plaza  The Square",
+    "address2": "",
+    "address3": "",
+    "city": "Palmerston North",
+    "state": "North Island",
+    "postcode": "4410",
+    "latitude": "-40.355930553349495",
+    "longitude": "175.61121940612799",
+    "tradingHours": [
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "MONDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "TUESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "WEDNESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "THURSDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SATURDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SUNDAY"
+      }
+    ],
+    "typename": "Location",
+    "url": "https://www.kmart.co.nz/store-detail/palmerston-north/"
+  },
+  {
+    "locationId": "8208",
+    "publicName": "Bayfair",
+    "phoneNumber": "+64 7 547 6400",
+    "address1": "Bayfair Plaza  Girven Road",
+    "address2": "",
+    "address3": "",
+    "city": "Mt Maunganui",
+    "state": "North Island",
+    "postcode": "3118",
+    "latitude": "-37.674989410713799",
+    "longitude": "176.22319221496602",
+    "tradingHours": [
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "MONDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "TUESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "WEDNESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "THURSDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SATURDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SUNDAY"
+      }
+    ],
+    "typename": "Location",
+    "url": "https://www.kmart.co.nz/store-detail/bayfair/"
+  },
+  {
+    "locationId": "8210",
+    "publicName": "Riccarton",
+    "phoneNumber": "+64 3 344 8200",
+    "address1": "Riccarton Mall  129 Riccarton Road  Riccarton",
+    "address2": "",
+    "address3": "",
+    "city": "Christchurch",
+    "state": "South Island",
+    "postcode": "8041",
+    "latitude": "-43.530971422309499",
+    "longitude": "172.59787559509297",
+    "tradingHours": [
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "MONDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "TUESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "WEDNESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "THURSDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SATURDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SUNDAY"
+      }
+    ],
+    "typename": "Location",
+    "url": "https://www.kmart.co.nz/store-detail/riccarton/"
+  },
+  {
+    "locationId": "8212",
+    "publicName": "Albany NZ",
+    "phoneNumber": "+64 9 442 8400",
+    "address1": "Westfield Albany  Don Mckinnon Drive  Albany",
+    "address2": "",
+    "address3": "",
+    "city": "Auckland",
+    "state": "North Island",
+    "postcode": "632",
+    "latitude": "-36.731111350401903",
+    "longitude": "174.70566272735599",
+    "tradingHours": [
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "MONDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "TUESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "WEDNESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "THURSDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SATURDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SUNDAY"
+      }
+    ],
+    "typename": "Location",
+    "url": "https://www.kmart.co.nz/store-detail/albany-nz/"
+  },
+  {
+    "locationId": "8213",
+    "publicName": "Botany",
+    "phoneNumber": "+64 9 265 3800",
+    "address1": "500 Ti Rakau Drive  Botany Downs",
+    "address2": "",
+    "address3": "",
+    "city": "Auckland",
+    "state": "North Island",
+    "postcode": "2013",
+    "latitude": "-36.928247752703101",
+    "longitude": "174.914231300354",
+    "tradingHours": [
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "MONDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "TUESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "WEDNESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "THURSDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SATURDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SUNDAY"
+      }
+    ],
+    "typename": "Location",
+    "url": "https://www.kmart.co.nz/store-detail/botany/"
+  },
+  {
+    "locationId": "8216",
+    "publicName": "Whakatane",
+    "phoneNumber": "+64 7 306 3400",
+    "address1": "Shop 8  The Hub  3 Phoenix Drive",
+    "address2": "",
+    "address3": "",
+    "city": "Whakatane",
+    "state": "North Island",
+    "postcode": "3120",
+    "latitude": "-37.952629999999999",
+    "longitude": "176.96540999999999",
+    "tradingHours": [
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "MONDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "TUESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "WEDNESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "THURSDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SATURDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SUNDAY"
+      }
+    ],
+    "typename": "Location",
+    "url": "https://www.kmart.co.nz/store-detail/whakatane/"
+  },
+  {
+    "locationId": "8217",
+    "publicName": "Bethlehem",
+    "phoneNumber": "+64 7 570 6500",
+    "address1": "Bethlehem Town Centre 19 Bethlehem Road Bethlehem",
+    "address2": "",
+    "address3": "",
+    "city": "Tauranga",
+    "state": "North Island",
+    "postcode": "3110",
+    "latitude": "-37.693551599999999",
+    "longitude": "176.11122999999998",
+    "tradingHours": [
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "MONDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "TUESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "WEDNESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "THURSDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SATURDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SUNDAY"
+      }
+    ],
+    "typename": "Location",
+    "url": "https://www.kmart.co.nz/store-detail/bethlehem/"
+  },
+  {
+    "locationId": "8218",
+    "publicName": "Richmond NZ",
+    "phoneNumber": "+64 3 543 7400",
+    "address1": "T1  186 Queen Street",
+    "address2": "",
+    "address3": "",
+    "city": "Richmond",
+    "state": "South Island",
+    "postcode": "7020",
+    "latitude": "-41.341203800000002",
+    "longitude": "173.18688640000005",
+    "tradingHours": [
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "MONDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "TUESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "WEDNESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "THURSDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SATURDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SUNDAY"
+      }
+    ],
+    "typename": "Location",
+    "url": "https://www.kmart.co.nz/store-detail/richmond-nz/"
+  },
+  {
+    "locationId": "8219",
+    "publicName": "Te Rapa",
+    "phoneNumber": "+64 7 850 0900",
+    "address1": "11 - 19 Karewa Place Te Rapa",
+    "address2": "",
+    "address3": "",
+    "city": "Hamilton",
+    "state": "North Island",
+    "postcode": "3200",
+    "latitude": "-37.747161699999999",
+    "longitude": "175.23544990000005",
+    "tradingHours": [
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "MONDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "TUESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "WEDNESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "THURSDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SATURDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SUNDAY"
+      }
+    ],
+    "typename": "Location",
+    "url": "https://www.kmart.co.nz/store-detail/te-rapa/"
+  },
+  {
+    "locationId": "8220",
+    "publicName": "Rotorua",
+    "phoneNumber": "+64 7 343 5900",
+    "address1": "1490 Amohau Street  Rotorua",
+    "address2": "",
+    "address3": "",
+    "city": "Bay Of Plenty",
+    "state": "North Island",
+    "postcode": "3013",
+    "latitude": "-38.138971499999997",
+    "longitude": "176.24150140000006",
+    "tradingHours": [
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "MONDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "TUESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "WEDNESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "THURSDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SATURDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SUNDAY"
+      }
+    ],
+    "typename": "Location",
+    "url": "https://www.kmart.co.nz/store-detail/rotorua/"
+  },
+  {
+    "locationId": "8221",
+    "publicName": "Whangarei",
+    "phoneNumber": "+64 9 470 4900",
+    "address1": "4 - 18 Port Road",
+    "address2": "",
+    "address3": "",
+    "city": "Whangarei",
+    "state": "North Island",
+    "postcode": "110",
+    "latitude": "-35.730392399999999",
+    "longitude": "174.32733340000004",
+    "tradingHours": [
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "MONDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "TUESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "WEDNESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "THURSDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SATURDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SUNDAY"
+      }
+    ],
+    "typename": "Location",
+    "url": "https://www.kmart.co.nz/store-detail/whangarei/"
+  },
+  {
+    "locationId": "8222",
+    "publicName": "Petone",
+    "phoneNumber": "+64 4 568 1300",
+    "address1": "35 Hutt Road   ",
+    "address2": "",
+    "address3": "",
+    "city": "Petone",
+    "state": "North Island",
+    "postcode": "5012",
+    "latitude": "-41.220793800000003",
+    "longitude": "174.87415620000002",
+    "tradingHours": [
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "MONDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "TUESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "WEDNESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "THURSDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SATURDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SUNDAY"
+      }
+    ],
+    "typename": "Location",
+    "url": "https://www.kmart.co.nz/store-detail/petone/"
+  },
+  {
+    "locationId": "8224",
+    "publicName": "Blenheim",
+    "phoneNumber": "+64 3 576 5800",
+    "address1": "Westwood Business Park  Westwood Avenue  ",
+    "address2": "",
+    "address3": "",
+    "city": "Blenheim",
+    "state": "South Island",
+    "postcode": "7201",
+    "latitude": "-41.507495599999999",
+    "longitude": "173.92338340000001",
+    "tradingHours": [
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "MONDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "TUESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "WEDNESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "THURSDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SATURDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SUNDAY"
+      }
+    ],
+    "typename": "Location",
+    "url": "https://www.kmart.co.nz/store-detail/blenheim/"
+  },
+  {
+    "locationId": "8225",
+    "publicName": "Queenstown",
+    "phoneNumber": "+64 3 450 9900",
+    "address1": "19 Grant Road  Frankton",
+    "address2": "",
+    "address3": "",
+    "city": "Queenstown",
+    "state": "South Island",
+    "postcode": "9371",
+    "latitude": "-45.012875000000001",
+    "longitude": "168.74334099999999",
+    "tradingHours": [
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "MONDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "TUESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "WEDNESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "THURSDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SATURDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SUNDAY"
+      }
+    ],
+    "typename": "Location",
+    "url": "https://www.kmart.co.nz/store-detail/queenstown/"
+  },
+  {
+    "locationId": "8226",
+    "publicName": "Invercargill",
+    "phoneNumber": "+64 3 213 7000",
+    "address1": "15 Clyde Street ",
+    "address2": "",
+    "address3": "",
+    "city": "Invercargill",
+    "state": "South Island",
+    "postcode": "9810",
+    "latitude": "-46.413927299999997",
+    "longitude": "168.34445769999999",
+    "tradingHours": [
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "MONDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "TUESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "WEDNESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "THURSDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SATURDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SUNDAY"
+      }
+    ],
+    "typename": "Location",
+    "url": "https://www.kmart.co.nz/store-detail/invercargill/"
+  },
+  {
+    "locationId": "8227",
+    "publicName": "Napier",
+    "phoneNumber": "+64 6 833 8700",
+    "address1": "87 Ford Road Onekawa",
+    "address2": "",
+    "address3": "",
+    "city": "Napier",
+    "state": "North Island",
+    "postcode": "4110",
+    "latitude": "-39.501330000000003",
+    "longitude": "176.88506000000001",
+    "tradingHours": [
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "MONDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "TUESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "WEDNESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "THURSDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SATURDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SUNDAY"
+      }
+    ],
+    "typename": "Location",
+    "url": "https://www.kmart.co.nz/store-detail/napier/"
+  },
+  {
+    "locationId": "8229",
+    "publicName": "Sylvia Park Nz ",
+    "phoneNumber": "+64 9 573 9200",
+    "address1": "Sylvia Park Shopping Centre 286 Mt Wellington Highway Mt Wellington ",
+    "address2": "",
+    "address3": "",
+    "city": "Auckland",
+    "state": "North Island",
+    "postcode": "1060",
+    "latitude": "-36.914257999999997",
+    "longitude": "174.84067569999999",
+    "tradingHours": [
+      {
+        "__typename": "TradingHour",
+        "hours": "24hr",
+        "weekDay": "MONDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "24hr",
+        "weekDay": "TUESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "24hr",
+        "weekDay": "WEDNESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "24hr",
+        "weekDay": "THURSDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "24hr",
+        "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "24hr",
+        "weekDay": "SATURDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "24hr",
+        "weekDay": "SUNDAY"
+      }
+    ],
+    "typename": "Location",
+    "url": "https://www.kmart.co.nz/store-detail/sylvia-park-nz-/"
+  },
+  {
+    "locationId": "8230",
+    "publicName": "Hamilton",
+    "phoneNumber": "+64 7 837 0600",
+    "address1": "Hamilton Central Shopping Centre Bryce Street ",
+    "address2": "",
+    "address3": "",
+    "city": "Hamilton",
+    "state": "North Island",
+    "postcode": "3204",
+    "latitude": "-37.787503999999998",
+    "longitude": "175.27750800000001",
+    "tradingHours": [
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "MONDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "TUESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "WEDNESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "THURSDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SATURDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SUNDAY"
+      }
+    ],
+    "typename": "Location",
+    "url": "https://www.kmart.co.nz/store-detail/hamilton/"
+  },
+  {
+    "locationId": "8231",
+    "publicName": "Papanui",
+    "phoneNumber": "+64 3 354 1700",
+    "address1": "100-148 Langdons Road",
+    "address2": "",
+    "address3": "",
+    "city": "Christchurch",
+    "state": "South Island",
+    "postcode": "8052",
+    "latitude": "-43.490659999999998",
+    "longitude": "172.60136299999999",
+    "tradingHours": [
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "MONDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "TUESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "WEDNESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "THURSDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SATURDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SUNDAY"
+      }
+    ],
+    "typename": "Location",
+    "url": "https://www.kmart.co.nz/store-detail/papanui/"
+  },
+  {
+    "locationId": "8232",
+    "publicName": "Ashburton",
+    "phoneNumber": "+64 3 307 0900",
+    "address1": "5 Cass Street  Ashburton",
+    "address2": "",
+    "address3": "",
+    "city": "Canterbury",
+    "state": "South Island",
+    "postcode": "7700",
+    "latitude": "-43.909902087518972",
+    "longitude": "171.74214846002695",
+    "tradingHours": [
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "MONDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "TUESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "WEDNESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "THURSDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SATURDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SUNDAY"
+      }
+    ],
+    "typename": "Location",
+    "url": "https://www.kmart.co.nz/store-detail/ashburton/"
+  },
+  {
+    "locationId": "8234",
+    "publicName": "Manukau",
+    "phoneNumber": "+64 9 261 8900",
+    "address1": "Manukau Supa Centa 26/72 Cavendish Drive Manukau",
+    "address2": "",
+    "address3": "",
+    "city": "Auckland",
+    "state": "North Island",
+    "postcode": "2104",
+    "latitude": "-36.991010000000003",
+    "longitude": "174.86957000000001",
+    "tradingHours": [
+      {
+        "__typename": "TradingHour",
+        "hours": "24hr",
+        "weekDay": "MONDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "24hr",
+        "weekDay": "TUESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "24hr",
+        "weekDay": "WEDNESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "24hr",
+        "weekDay": "THURSDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "24hr",
+        "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "24hr",
+        "weekDay": "SATURDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "24hr",
+        "weekDay": "SUNDAY"
+      }
+    ],
+    "typename": "Location",
+    "url": "https://www.kmart.co.nz/store-detail/manukau/"
+  },
+  {
+    "locationId": "8235",
+    "publicName": "Dunedin",
+    "phoneNumber": "+64 3 456 4600",
+    "address1": "375 Andersons Bay Road",
+    "address2": "",
+    "address3": "",
+    "city": "Dunedin South",
+    "state": "South Island",
+    "postcode": "9012",
+    "latitude": "-45.894407000000001",
+    "longitude": "170.50340600000001",
+    "tradingHours": [
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "MONDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "TUESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "WEDNESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "THURSDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SATURDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SUNDAY"
+      }
+    ],
+    "typename": "Location",
+    "url": "https://www.kmart.co.nz/store-detail/dunedin/"
+  },
+  {
+    "locationId": "8237",
+    "publicName": "Westgate",
+    "phoneNumber": "+64 9 250 5211",
+    "address1": "58 Maki Street",
+    "address2": "",
+    "address3": "",
+    "city": "Auckland",
+    "state": "North Island",
+    "postcode": "814",
+    "latitude": "-36.816000000000003",
+    "longitude": "174.61099999999999",
+    "tradingHours": [
+      {
+        "__typename": "TradingHour",
+        "hours": "24hr",
+        "weekDay": "MONDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "24hr",
+        "weekDay": "TUESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "24hr",
+        "weekDay": "WEDNESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "24hr",
+        "weekDay": "THURSDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "24hr",
+        "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "24hr",
+        "weekDay": "SATURDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "24hr",
+        "weekDay": "SUNDAY"
+      }
+    ],
+    "typename": "Location",
+    "url": "https://www.kmart.co.nz/store-detail/westgate/"
+  }
+]
