@@ -19,6 +19,11 @@ curl -sS -f -G 'https://api.kmart.co.nz/gateway/graphql' \
 
 # Fail rather than overwrite the snapshot with an empty list
 jq -e '.data.nearestLocations | length > 0' "$TEMP_FILE" > /dev/null
-jq '.data.nearestLocations | sort_by(.locationId)' "$TEMP_FILE" > nz-store-locations.json
+# The API lists trading hours starting from the current day, so sort them
+# Monday to Sunday to keep the snapshot stable from one day to the next.
+jq '["MONDAY","TUESDAY","WEDNESDAY","THURSDAY","FRIDAY","SATURDAY","SUNDAY"] as $days
+  | .data.nearestLocations
+  | map(.tradingHours |= (if . then sort_by(.weekDay as $d | $days | index($d) // 7) else . end))
+  | sort_by(.locationId)' "$TEMP_FILE" > nz-store-locations.json
 rm -f "$TEMP_FILE"
 echo "Saved $(jq length nz-store-locations.json) stores to nz-store-locations.json"
